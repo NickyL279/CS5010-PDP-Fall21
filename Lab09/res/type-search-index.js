@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lookandsay","l":"LookAndSayIterator"},{"p":"test","l":"LookAndSayTest"},{"p":"lookandsay","l":"RIterator"}];updateSearchResults();
